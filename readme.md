@@ -6,6 +6,10 @@
 
 ---
 
+![Seona's GitHub stats](https://github-readme-stats.vercel.app/api?username=seona926&show_icons=true&theme=dracula)
+
+---
+
 ### 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript(ES6+), TypeScript  
